@@ -19,3 +19,11 @@ https://www.gitbook.com/book/imalexyang/elasticsearch-reference-2-3
 
 beijing
 20161101
+
+-------------------------------------------------------------------------
+
+Thanks the author
+
+Here is a copy from imalex@163.com
+
+Mostly for study and search!
